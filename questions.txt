@@ -1,0 +1,35 @@
+Exam questions: 11.30 Batch(Darwyn) 19/10/24
+1. How would you filter out all even numbers from a List of integers?
+List<int> numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+2. You have a Map of people’s names and their ages. How would you find the names of people older than 30?
+Map<String, int> people = {'Alice': 25, 'Bob': 35, 'Charlie': 40, 'Dave': 28};
+ 
+3.How would you count the occurrence of each word in a List of strings?
+List<String> words = ['apple', 'banana', 'apple', 'orange', 'banana', 'apple'];
+ 
+4. Given a Map of products and their prices, how do you apply a 10% discount to all products?
+Map<String, double> products = {'Shoes': 100.0, 'Shirt': 50.0, 'Pants': 75.0};
+ 
+ 
+5. Given two Sets of numbers, how would you find the numbers that are common to both Sets?
+Set<int> set1 = {1, 2, 3, 4, 5};
+Set<int> set2 = {3, 4, 5, 6, 7};
+ 
+6.You have a Set of emails and want to add a new email only if it doesn't already exist. How would you check before adding?
+Set<String> emails = {'alice@example.com', 'bob@example.com'};
+ 
+7. How do you remove all even numbers from a List of integers?
+List<int> numbers = [1, 2, 3, 4, 5, 6];
+ 
+8. How do you reverse a List?
+List<String> names = ['Alice', 'Bob', 'Charlie'];
+ 
+9. Write a program to print even numbers between intervals using functions.
+ 
+10. Write a function in Dart to calculate the power of a certain number.
+ 
+11. Write a function in Dart called maxNumber that takes three numbers as arguments and returns the largest number.
+ 
+12. Write program to find Fibonacci series of a number using functions.
+ 
